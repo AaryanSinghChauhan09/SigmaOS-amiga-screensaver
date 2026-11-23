@@ -1,4 +1,6 @@
-# Omarchy Amiga Screensaver
+# fk-omarchy-amiga-screensaver
+
+> Forked from omacom/omarchy-amiga-screensaver (MIT). See `SIGMAOS_FORK.md`.
 
 The demos Omarchy plays when Amiga Demos is chosen as the screensaver, in Appearance > Branding > Screensaver. They are packaged as `omarchy-amiga-screensaver`, which installs them under `/usr/share/omarchy-amiga-screensaver/demos` and pulls in FS-UAE to play them.
 
