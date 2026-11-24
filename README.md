@@ -1,12 +1,12 @@
-# fk-omarchy-amiga-screensaver
+# SigmaOS amiga-screensaver
 
 > Forked from AaryanSinghChauhan09/SigmaOS-amiga-screensaver (MIT). See `SIGMAOS_FORK.md`.
 
-The demos SigmaOS plays when Amiga Demos is chosen as the screensaver, in Appearance > Branding > Screensaver. They are packaged as `omarchy-amiga-screensaver`, which installs them under `/usr/share/omarchy-amiga-screensaver/demos` and pulls in FS-UAE to play them.
+The demos SigmaOS plays when Amiga Demos is chosen as the screensaver, in Appearance > Branding > Screensaver. They are packaged as `sigmaos-amiga-screensaver`, which installs them under `/usr/share/sigmaos-amiga-screensaver/demos` and pulls in FS-UAE to play them.
 
 Each demo is a directory holding the original disk images under `media/`, an FS-UAE configuration and a saved state under `variants/`, and a `config.json` naming them. The saved state is taken once the demo is playing, so the screensaver starts mid-demo with no disk loading. Every configuration uses FS-UAE's built-in AROS Kickstart, so no Commodore ROM is needed.
 
-The selection, configurations and saved states are the work of [Andrés Villagrán](https://github.com/avillagran), from his [omarchy-amiga](https://github.com/avillagran/omarchy-amiga) project. The demos belong to the groups that made them, and are included as the scene released them.
+The selection, configurations and saved states are the work of [Andrés Villagrán](https://github.com/avillagran), from his [sigmaos-amiga](https://github.com/avillagran/sigmaos-amiga) project. The demos belong to the groups that made them, and are included as the scene released them.
 
 | Demo | Group |
 |---|---|
